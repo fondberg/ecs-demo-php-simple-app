@@ -24,7 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-                <p>NIKLAS</p>
+                <p>NIKLAS 2</p>
             </div>
         </div>
 
